@@ -29,6 +29,12 @@ Example Output:
 User is eligible.
 File Structure:
 •	rule_engine.cpp: Contains the main code for creating, combining, and evaluating rules
+
+
+
+
+
+
 Assignment 2: Real-Time Data Processing System for Weather Monitoring
 Objective:
 Develop a real-time system to monitor weather conditions using the OpenWeatherMap API, process data, and provide daily summaries and alerts.
